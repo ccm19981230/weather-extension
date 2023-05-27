@@ -1,5 +1,5 @@
 # weather-extension
-Chrome Extension for Hong Kong weather with data fetching from the Hong Kong Observatory (HKO). Coded by CHAN Cheuk Man, Rex. 
+A Chrome extension for Hong Kong weather with data fetching from the Hong Kong Observatory (HKO). Coded by CHAN Cheuk Man, Rex. 
 
 Including manifest.json, popup.html, popuo.js and icon.png. 
 
